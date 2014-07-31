@@ -59,7 +59,7 @@
       git push    更新到远程版本库
       git log     查看
       git revert  还原以说posix是命令行界面相应和交互的标准和功能。
-
+   git 原理图
   ![Image of git ]
       (https://github.com/sighWang/basic-noun/blob/master/18333fig0103-tn.png)
 ## 五：javascript
