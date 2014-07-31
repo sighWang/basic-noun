@@ -60,7 +60,7 @@
       git log     查看
       git revert  还原以说posix是命令行界面相应和交互的标准和功能。
 
-      ![Image of git ]
+  ![Image of git ]
       (https://github.com/sighWang/basic-noun/blob/master/18333fig0103-tn.png)
 ## 五：javascript
        javaScript是面向web的编程语言，所有的现代浏览器均包含了javascript解释器。
