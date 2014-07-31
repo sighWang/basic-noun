@@ -40,16 +40,16 @@
      * 每个软件都有确定的用途
 
 
-# 二：Ubuntu
+## 二：Ubuntu
 
     Ubuntu是基于Debian GUN/linux的开源的GUN/linux操作系统。
 
 
-# 三：POSIX
+## 三：POSIX
         可移植操作系统接口（Portable Operating System Interface
     x表示它的linux血统）目的是为了提高UNIX环境下应用程序的课移植性，现
     在也可以用到其他操作系统。
-# 四：git  
+## 四：git  
     分布式版本控制工具
     基本命令：
       git  pull   更新本地代码
@@ -59,7 +59,7 @@
       git push      更新到远程版本库
       git log        查看
       git revert    还原以说posix是命令行界面相应和交互的标准和功能。
-# 五：javascript
+## 五：javascript
        javaScript是面向web的编程语言，所有的现代浏览器均包含了javascript解释器。
     是一种嵌入到网页中的轻量脚本语言，主要主要作用于前台展示，现在也发展到
     操作后台的地步。
