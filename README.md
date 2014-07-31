@@ -38,3 +38,15 @@
 
      * 一切都是文件
      * 每个软件都有确定的用途
+
+
+# 二：Ubuntu
+
+    Ubuntu是基于Debian GUN/linux的开源的GUN/linux操作系统。
+
+
+# 三：POSIX
+        可移植操作系统接口（Portable Operating System Interface
+    x表示它的linux血统）目的是为了提高UNIX环境下应用程序的课移植性，现
+    在也可以用到其他操作系统。
+        可以说posix是命令行界面相应和交互的标准和功能。
