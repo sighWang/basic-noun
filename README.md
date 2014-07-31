@@ -56,9 +56,12 @@
       git  add    将新文件加入到git索引中
       git rm      删除文件
       git commit  提交文件
-      git push      更新到远程版本库
-      git log        查看
-      git revert    还原以说posix是命令行界面相应和交互的标准和功能。
+      git push    更新到远程版本库
+      git log     查看
+      git revert  还原以说posix是命令行界面相应和交互的标准和功能。
+
+      ![Image of git ]
+      (https://github.com/sighWang/basic-noun/blob/master/18333fig0103-tn.png)
 ## 五：javascript
        javaScript是面向web的编程语言，所有的现代浏览器均包含了javascript解释器。
     是一种嵌入到网页中的轻量脚本语言，主要主要作用于前台展示，现在也发展到
